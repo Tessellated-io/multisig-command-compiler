@@ -1,1 +1,1 @@
-(lambda 0 "" -1 ())
+(lambda 0 "" -1 ((result (list 13 (transfer (unit) (literal (mutez 1000000) 7) (openVariant (contract "" (unknown 2) (literal (address "KT1DtPbioHJfyKxF61PxErRNkJjDyn9aDfhf") 8) 8) "Some" "None" 8) 5)) 13)))

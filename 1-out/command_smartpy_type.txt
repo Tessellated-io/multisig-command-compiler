@@ -1,1 +1,1 @@
-sp.TLambda(unknown, sp.TUnit)
+sp.TLambda(unknown, sp.TList(sp.TOperation))
