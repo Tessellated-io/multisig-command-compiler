@@ -22,7 +22,10 @@ mkdir commands/<id>
 touch commands/<id>/command.py
 ```
 
-(2) Write a command
+(2) Write a command.
+
+**NOTE: ** the function must be named `command`.
+
 ```python
 import smartpy as sp
 

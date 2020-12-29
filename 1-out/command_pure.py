@@ -7,3 +7,4 @@ def command(self):
     sp.tez(1), 
     sp.contract(None, sp.address("KT1DtPbioHJfyKxF61PxErRNkJjDyn9aDfhf")
   ).open_some())
+
