@@ -38,3 +38,6 @@ def command(self, unit):
 compile-command.sh <id>
 ```
 
+## Example Command
+
+An example command is provided with ID `1`, which transfers 1 XTZ to a smart contract on Delphinet.
